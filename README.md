@@ -12,3 +12,5 @@ var myOptions = {
   styles: styles['pale-dawn']
 };
 var map = new google.maps.Map(document.getElementById('map'), myOptions);
+
+Note: Some of the names are duplicate with different styles
